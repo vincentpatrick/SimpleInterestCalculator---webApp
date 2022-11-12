@@ -22,5 +22,7 @@ The developer's task is to Use HTLM, CSS and Javascript to create a simple inter
 The user enters the amount he wishes to deposit,
 use the interest rate slider to select how much interest rate is applied.
 User also select the number of years to have.
-By pressing the compute interest button, the user will then receive the result
+By pressing the compute interest button, the user will then receive the result.
+
+
 ![App Screenshot](https://github.com/vincentpatrick/SimpleInterestCalculator---webApp/blob/main/task_7.png)
