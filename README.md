@@ -22,6 +22,8 @@ The developer's task is to Use HTLM, CSS and Javascript to create a simple inter
 
 ## Solution Demo
 
+Live site Url: https://vincentpatrick.github.io/VincentInterestCalculator.github.io/
+
 The user enters the amount he wishes to deposit,
 use the interest rate slider to select how much interest rate is applied.
 User also select the number of years to have.
