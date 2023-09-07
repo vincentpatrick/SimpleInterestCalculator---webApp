@@ -47,5 +47,5 @@ jobs:
   forwardingGateway: 
     - requiredHeaders": 
         - X-Azure-FDID" : "9f2eba53-61b1-4bec-ab63-bcd650997baa"
-    - allowedForwardedHosts: interestcalculator.azurefd.net"
+    - allowedForwardedHosts: "interestcalculator.azurefd.net"
   
