@@ -43,3 +43,9 @@ jobs:
         with:
           azure_static_web_apps_api_token: ${{ secrets.AZURE_STATIC_WEB_APPS_API_TOKEN_BRAVE_BEACH_0CB88721E }}
           action: "close"
+
+  forwardingGateway: 
+    - requiredHeaders": 
+        - X-Azure-FDID" : "9f2eba53-61b1-4bec-ab63-bcd650997baa"
+    - allowedForwardedHosts: interestcalculator.azurefd.net"
+  
